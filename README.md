@@ -1,3 +1,6 @@
+> **Cititec fork** of [WYRE-AI/autotask-node](https://github.com/WYRE-AI/autotask-node). Before changing anything, read
+> [CITITEC-FORK.md](CITITEC-FORK.md): which changes go back to Wyre and which stay in this fork.
+
 # Autotask Node SDK
 
 A TypeScript/Node.js SDK for the Kaseya Autotask PSA REST API with business logic validation, performance optimization, and production monitoring.
